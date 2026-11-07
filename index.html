@@ -51,7 +51,7 @@ h1 small{display:block;font-size:.72em;font-weight:600}
   box-shadow:5px 5px 0 var(--ink);color:inherit;text-decoration:none;transition:transform .15s,box-shadow .15s;flex:1}
 a.card:hover{transform:translate(-2px,-2px);box-shadow:7px 7px 0 var(--ink)}
 a.card:active{transform:translate(3px,3px);box-shadow:2px 2px 0 var(--ink)}
-.card img{width:104px;height:150px;flex:none;object-fit:cover;border-radius:12px;border:2px solid var(--ink);background:#f3e2a0}
+.card img{width:112px;height:150px;flex:none;object-fit:contain;border-radius:12px;border:2px solid var(--ink);background:#fff}
 .body{display:flex;flex-direction:column;min-width:0;flex:1}
 .ep{align-self:flex-start;font-size:.75rem;font-weight:600;background:var(--blue);color:#fff;padding:1px 10px;border-radius:99px}
 .title{font-size:1.15rem;font-weight:800;line-height:1.3;margin-top:4px}
@@ -117,8 +117,8 @@ function render(eps) {
     if (live) { card.href = e.product_url; card.target = '_blank'; card.rel = 'sponsored noopener'; }
 
     const img = el('img');
-    img.src = e.cover; img.alt = `ปก EP.${e.ep} ${e.title}`;
-    img.width = 104; img.height = 150; img.decoding = 'async';
+    img.src = e.cover; img.alt = `รูปสินค้า EP.${e.ep} ${e.title}`;
+    img.width = 112; img.height = 150; img.decoding = 'async';
     if (i > 3) img.loading = 'lazy';
 
     const body = el('div', 'body');

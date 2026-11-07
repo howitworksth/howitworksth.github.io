@@ -3,8 +3,8 @@
 Static page. Every episode card (cover + title) links to its Shopee affiliate URL. Spec: `../web.md`.
 
 ## Add an episode
-1. Make the cover (ImageMagick is installed):
-   `magick ..\product\epN-name\publish\cover.png -resize 360x640 -quality 72 covers\epN.webp`
+1. Product photo: keep the original as `..\product\epN-name\publish\product.webp`, then make the small copy:
+   `magick ..\product\epN-name\publish\product.webp -resize 360x400 -quality 75 covers\epN.webp`
 2. Add an entry to `episodes.json` (any order, the page sorts newest first):
    ```json
    { "ep": 3, "title": "…", "hook": "…", "product_url": "https://s.shopee.co.th/…", "cover": "covers/ep3.webp", "youtube_url": "", "date": "YYYY-MM-DD" }
