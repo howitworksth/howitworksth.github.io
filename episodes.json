@@ -5,7 +5,7 @@
     "hook": "ไม่ได้ \"ทอด\" จริง!",
     "product_url": "https://s.shopee.co.th/4fxbVFrWIf",
     "cover": "covers/ep1.webp",
-    "youtube_url": "",
+    "youtube_url": "https://www.youtube.com/shorts/jCGfuugHDa0",
     "date": "2026-11-08"
   },
   {
@@ -14,7 +14,16 @@
     "hook": "ฝุ่นเล็กกว่ารูกรอง แต่ยังติด!?",
     "product_url": "https://s.shopee.co.th/3LSDv4Kvl1",
     "cover": "covers/ep2.webp",
-    "youtube_url": "",
-    "date": ""
+    "youtube_url": "https://www.youtube.com/shorts/mGtZ_dOlyUQ",
+    "date": "2026-11-08"
+  },
+  {
+    "ep": 3,
+    "title": "พาวเวอร์แบงก์แม่เหล็ก",
+    "hook": "ชาร์จไร้สาย ไม่ได้ไร้สายจริง!?",
+    "product_url": "https://s.shopee.co.th/8VAL4yFH7K",
+    "cover": "covers/ep3.webp",
+    "youtube_url": "https://www.youtube.com/shorts/1hdNcW04cQg",
+    "date": "2026-11-09"
   }
 ]
