@@ -108,6 +108,8 @@ const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls)
 const norm = s => s.toLowerCase().replace(/[\s.]+/g, '');
 
 function render(eps) {
+  // a card appears at its post time (date = post day, 10:00 Bangkok), so episodes can be queued ahead
+  eps = eps.filter(e => !e.date || new Date(e.date + 'T10:00:00+07:00') <= Date.now());
   eps.sort((a, b) => b.ep - a.ep).forEach((e, i) => {
     const li = el('li');
     li.dataset.q = norm(`ep${e.ep} ${e.title} ${e.hook}`);

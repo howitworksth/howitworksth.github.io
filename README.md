@@ -9,6 +9,7 @@ Static page. Every episode card (cover + title) links to its Shopee affiliate UR
    ```json
    { "ep": 3, "title": "…", "hook": "…", "product_url": "https://s.shopee.co.th/…", "cover": "covers/ep3.webp", "youtube_url": "", "date": "YYYY-MM-DD" }
    ```
+   `date` = post day: the card stays hidden until 10:00 Bangkok that day, so you can add a week of episodes at once.
    Empty `product_url` = card shows "เร็ว ๆ นี้" and isn't clickable. Paste the affiliate link exactly as Shopee gives it.
 3. Commit + push → the host redeploys.
 

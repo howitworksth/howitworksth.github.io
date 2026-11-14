@@ -34,5 +34,77 @@
     "cover": "covers/ep4.webp",
     "youtube_url": "https://www.youtube.com/shorts/1Nbd9F4paf8",
     "date": "2026-11-10"
+  },
+  {
+    "ep": 5,
+    "title": "เครื่องดักยุง",
+    "hook": "จับยุงด้วยแสงจริงเหรอ!?",
+    "product_url": "https://s.shopee.co.th/9V2sGdT6wJ",
+    "cover": "covers/ep5.webp",
+    "youtube_url": "https://www.youtube.com/shorts/VrzHiHjcniQ",
+    "date": "2026-11-11"
+  },
+  {
+    "ep": 6,
+    "title": "หม้อหุงข้าว",
+    "hook": "รู้ได้ไงว่าข้าวสุก!?",
+    "product_url": "https://s.shopee.co.th/AAIZ4O7C1K",
+    "cover": "covers/ep6.webp",
+    "youtube_url": "https://www.youtube.com/shorts/LHyqVJDUSww",
+    "date": "2026-11-12"
+  },
+  {
+    "ep": 7,
+    "title": "แก้วเก็บเย็น",
+    "hook": "ไม่ได้ \"เก็บเย็น\" นะ!?",
+    "product_url": "https://s.shopee.co.th/4fxcVYpbOB",
+    "cover": "covers/ep7.webp",
+    "youtube_url": "https://www.youtube.com/shorts/UYGdCwv03rs",
+    "date": "2026-11-13"
+  },
+  {
+    "ep": 8,
+    "title": "เครื่องดูดฝุ่นไร้สาย",
+    "hook": "ไม่ได้ \"ดูด\" ฝุ่นนะ!?",
+    "product_url": "https://s.shopee.co.th/9V30qqTpH5",
+    "cover": "covers/ep8.webp",
+    "youtube_url": "",
+    "date": "2026-11-14"
+  },
+  {
+    "ep": 9,
+    "title": "หม้ออัดแรงดัน",
+    "hook": "ไม่ได้ร้อนเพราะไฟแรง!?",
+    "product_url": "https://s.shopee.co.th/1LhJ81y7lY",
+    "cover": "covers/ep9.webp",
+    "youtube_url": "",
+    "date": "2026-11-15"
+  },
+  {
+    "ep": 10,
+    "title": "กาต้มน้ำไฟฟ้า",
+    "hook": "รู้ได้ไงว่าน้ำเดือด?",
+    "product_url": "https://s.shopee.co.th/5fqIHwnaCL",
+    "cover": "covers/ep10.webp",
+    "youtube_url": "",
+    "date": "2026-11-16"
+  },
+  {
+    "ep": 11,
+    "title": "หัวชาร์จ GaN",
+    "hook": "จิ๋ว แต่ชาร์จแรงได้ไง!?",
+    "product_url": "https://s.shopee.co.th/40i4IugblU",
+    "cover": "covers/ep11.webp",
+    "youtube_url": "",
+    "date": "2026-11-17"
+  },
+  {
+    "ep": 12,
+    "title": "เครื่องรีดไอน้ำ",
+    "hook": "ไอน้ำไม่ได้ \"รีด\" ผ้านะ!?",
+    "product_url": "https://s.shopee.co.th/9AQASNo94u",
+    "cover": "covers/ep12.webp",
+    "youtube_url": "",
+    "date": "2026-11-18"
   }
 ]
