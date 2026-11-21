@@ -9,7 +9,8 @@ Static page. Every episode card (cover + title) links to its Shopee affiliate UR
    ```json
    { "ep": 3, "title": "…", "hook": "…", "product_url": "https://s.shopee.co.th/…", "cover": "covers/ep3.webp", "youtube_url": "", "date": "YYYY-MM-DD" }
    ```
-   `date` = post day: the card stays hidden until 10:00 Bangkok that day, so you can add a week of episodes at once.
+   `date` = post day: the card stays hidden until 10:00 Bangkok that day, so you can add a week of episodes at once. Posting at another time? Add `"time": "17:00"`.
+   No product photo? Square crop of the video cover: `magick ..\product\epN-name\publish\cover.png -gravity center -crop 1080x1080+0+0 +repage -resize 360x360 -quality 75 covers\epN.webp`
    Empty `product_url` = card shows "เร็ว ๆ นี้" and isn't clickable. Paste the affiliate link exactly as Shopee gives it.
 3. Commit + push → the host redeploys.
 

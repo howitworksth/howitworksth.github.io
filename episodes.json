@@ -106,5 +106,100 @@
     "cover": "covers/ep12.webp",
     "youtube_url": "",
     "date": "2026-11-18"
+  },
+  {
+    "ep": 13,
+    "title": "เครื่องทำน้ำอุ่น",
+    "hook": "ไม่ได้เก็บน้ำร้อนไว้นะ!",
+    "product_url": "https://s.shopee.co.th/2BGU69EH4R",
+    "cover": "covers/ep13.webp",
+    "youtube_url": "",
+    "date": "2026-11-19"
+  },
+  {
+    "ep": 14,
+    "title": "สมาร์ทวอทช์",
+    "hook": "ไม่ได้ฟังหัวใจ แต่ส่องเลือด!",
+    "product_url": "https://s.shopee.co.th/1BzWDCmpB",
+    "cover": "covers/ep14.webp",
+    "youtube_url": "",
+    "date": "2026-11-19",
+    "time": "17:00"
+  },
+  {
+    "ep": 15,
+    "title": "เตาแม่เหล็กไฟฟ้า",
+    "hook": "ตัวเตาไม่ได้ร้อนเองนะ!",
+    "product_url": "https://s.shopee.co.th/8AXhFEGtUa",
+    "cover": "covers/ep15.webp",
+    "youtube_url": "",
+    "date": "2026-11-20"
+  },
+  {
+    "ep": 16,
+    "title": "ไม้ตียุงไฟฟ้า",
+    "hook": "ไม่ได้ช็อตด้วยไฟบ้านนะ!",
+    "product_url": "https://s.shopee.co.th/3qOiuMm1kk",
+    "cover": "covers/ep16.webp",
+    "youtube_url": "",
+    "date": "2026-11-20",
+    "time": "17:00"
+  },
+  {
+    "ep": 17,
+    "title": "ไฟเซ็นเซอร์ตรวจจับ (PIR)",
+    "hook": "ไม่ได้มองเห็นคุณนะ!",
+    "product_url": "https://s.shopee.co.th/1LhNvoYKls",
+    "cover": "covers/ep17.webp",
+    "youtube_url": "",
+    "date": "2026-11-21"
+  },
+  {
+    "ep": 18,
+    "title": "ไฟแช็กพลาสม่า",
+    "hook": "ไม่มีเปลวไฟ แต่เป็นสายฟ้าจิ๋ว!",
+    "product_url": "https://s.shopee.co.th/1LhNvr9xGJ",
+    "cover": "covers/ep18.webp",
+    "youtube_url": "",
+    "date": "2026-11-21",
+    "time": "17:00"
+  },
+  {
+    "ep": 19,
+    "title": "ที่ชั่งน้ำหนักดิจิตอล",
+    "hook": "ไม่ได้ชั่งคุณ แต่ดูเหล็กงอ!",
+    "product_url": "https://s.shopee.co.th/9V34pbZYsG",
+    "cover": "covers/ep19.webp",
+    "youtube_url": "",
+    "date": "2026-11-22"
+  },
+  {
+    "ep": 20,
+    "title": "พัดลมระบายร้อนมือถือ",
+    "hook": "ไม่ได้เป่ามือถือนะ!",
+    "product_url": "https://s.shopee.co.th/BVQY0TGGI",
+    "cover": "covers/ep20.webp",
+    "youtube_url": "",
+    "date": "2026-11-22",
+    "time": "17:00"
+  },
+  {
+    "ep": 21,
+    "title": "ลำโพงบลูทูธจิ๋ว",
+    "hook": "เบสนี้ สมองคุณช่วยเติม!",
+    "product_url": "https://s.shopee.co.th/BVQY2GDWG",
+    "cover": "covers/ep21.webp",
+    "youtube_url": "",
+    "date": "2026-11-23"
+  },
+  {
+    "ep": 22,
+    "title": "เครื่องทำความสะอาดโซฟา/พรม",
+    "hook": "ฉีดน้ำใส่ แต่ไม่เปียกโชก!?",
+    "product_url": "https://s.shopee.co.th/gRgJSEvoS",
+    "cover": "covers/ep22.webp",
+    "youtube_url": "",
+    "date": "2026-11-23",
+    "time": "17:00"
   }
 ]
